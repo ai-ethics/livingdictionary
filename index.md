@@ -4,5 +4,5 @@ The Living Dictionary was designed by MAIEI to empower, motivate, and inspire yo
 
 Let's do this together!
 
-If there are terms you'd like us to define, please let us know in [this form](https://airtable.com/shrB3tKSE2MUqPbBv). Help us make the Living Dictionary as useful as possible so that we can democratize the AI space, one definition at a time.
+If there are terms you'd like us to define, please let us know in [this form](https://airtable.com/shrB3tKSE2MUqPbBv). Help us make the Living Dictionary as useful as possible in our pursuit to democratize the AI space, one definition at a time.
 
